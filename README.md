@@ -1,4 +1,3 @@
-# PROJEKT-ONE_PAGE-WEB
 ## Název projektu
 Guide na cviky
 ## Žák
