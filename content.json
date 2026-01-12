@@ -1,0 +1,172 @@
+{
+    "parts": [
+        {
+            "id": "chest",
+            "name": "Hrudník",
+            "icon": "ph-barbell",
+            "description": "Silný hrudník je základem horní poloviny těla. Trénink prsních svalů zlepšuje sílu při tlaku a celkové držení těla.",
+            "benefits": [
+                "Zlepšení síly tlaků",
+                "Estetický vzhled",
+                "Podpora držení ramen"
+            ],
+            "exercises": [
+                {
+                    "name": "Bench Press",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bench-Press.gif",
+                    "guide": "Lehni si na lavici, uchop osu nadhmatem na šířku ramen. Kontrolovaně spusť osu na úroveň hrudníku a dynamicky vytlač nahoru."
+                },
+                {
+                    "name": "Incline Bench Press",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Incline-Barbell-Bench-Press.gif",
+                    "guide": "Lavici si nastav do úhlu 60°, lehni si na lavici, uchop osu nadhmatem na šířku ramen. Kontrolovaně spusť osu na úroveň hrudníku a dynamicky vytlač nahoru."
+                },
+                {
+                    "name": "High to low Cable Fly",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/High-Cable-Crossover.gif",
+                    "guide": "V leže na lavici s jednoručkami nad hrudníkem s mírně pokrčenými lokty otevírej hrudník do stran a s výdechem stahuj zpět k sobě."
+                }
+            ]
+        },
+        {
+            "id": "back",
+            "name": "Záda",
+            "icon": "ph-caret-down",
+            "description": "Široká záda tvoří V-tvar postavy a jsou klíčová pro zdravou páteř a prevenci bolestí zad.",
+            "benefits": [
+                "Korekce držení těla",
+                "V-tvar postavy",
+                "Prevence bolesti beder"
+            ],
+            "exercises": [
+                {
+                    "name": "Mrtvý tah",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Deadlift.gif",
+                    "guide": "Postoj na šíři boků, činka u holení. S rovnými zády zvedni činku, boky tlač dopředu. Kontrolovaně polož."
+                },
+                {
+                    "name": "Shyby",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pull-up.gif",
+                    "guide": "Zavěs se na hrazdu nadhmatem. S výdechem se přitáhni bradou k hrazdě, s nádechem kontrolovaně dolů."
+                },
+                {
+                    "name": "Barbell Bent Over Row",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Bent-Over-Row.gif",
+                    "guide": "Postav se před osu, předkloň se a s rovnými zády zvedni osu a poté kontrolovaně dolů."
+                }
+            ]
+        },
+        {
+            "id": "legs",
+            "name": "Nohy",
+            "icon": "ph-lightning",
+            "description": "Nohy nesou celou váhu těla. Trénink nohou stimuluje produkci hormonů a buduje celkovou sílu.",
+            "benefits": [
+                "Zvýšení celkové síly",
+                "Spalování kalorií",
+                "Stabilita"
+            ],
+            "exercises": [
+                {
+                    "name": "Dřepy",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-sumo-squat.gif",
+                    "guide": "Osu polož na trapézy, postoj na šíři ramen. S nádechem klesej do sedu, kolena směřují ven. S výdechem zpět nahoru."
+                },
+                {
+                    "name": "Předkopy",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/LEG-EXTENSION.gif",
+                    "guide": "Sedni si na stroj, zahákni nohy za podložku a stáhni quadriceps, s nádechem vracej nohy do původní pozice."
+                },
+                {
+                    "name": "Zákopy",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/08/Seated-Leg-Curl.gif",
+                    "guide": "Sedni si na stroj, nohy dej před podložku a přitahni paty k hýždím, s nádechem vracej nohy do původní pozice."
+                }
+            ]
+        },
+        {
+            "id": "shoulders",
+            "name": "Ramena",
+            "icon": "ph-person-arms-spread",
+            "description": "Ramena dotváří šířku postavy. Jsou zapojena téměř při každém pohybu rukou.",
+            "benefits": [
+                "Široká ramena",
+                "Mobilita paží",
+                "Estetika"
+            ],
+            "exercises": [
+                {
+                    "name": "Tlaky s jednoručkami",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Shoulder-Press.gif",
+                    "guide": "V sedě tlač jednoručky od ramen nad hlavu. Lokty nepropínej úplně."
+                },
+                {
+                    "name": "Rozpažky s jednoručkami",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Lateral-Raise.gif",
+                    "guide": "Uchop jednoručky, od boků zvedni jednoručky do úrovně prsou."
+                },
+                {
+                    "name": "Face pull",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Face-Pull.gif",
+                    "guide": "Stoupni si před stroj a dolu si připni lano, přitáhněte lano k obličeji, lokty se rozšiřují ven."
+                }
+            ]
+        },
+        {
+            "id": "hips",
+            "name": "Břicho",
+            "icon": "ph-person-simple",
+            "description": "Silný střed těla (core) je nezbytný pro stabilitu a zdravá záda.",
+            "benefits": [
+                "Stabilita",
+                "Ochrana páteře",
+                "Plochě břicho"
+            ],
+            "exercises": [
+                {
+                    "name": "Sit-up",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Sit-ups.gif",
+                    "guide": "Sedni si na podložku, nohy dej před podložku a zvedni tělo do úrovně nohou."
+                },
+                {
+                    "name": "Plank",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/plank.gif",
+                    "guide": "Opři se o předloktí a špičky nohou. Tělo drž v jedné rovině, zatni břicho a hýždě. Drž."
+                },
+                {
+                    "name": "Leg raise",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Lying-Leg-Raise.gif",
+                    "guide": "Opři se o předloktí a špičky nohou. Tělo drž v jedné rovině, zatni břicho a hýždě. Drž."
+                }
+            ]
+        },
+        {
+            "id": "arms",
+            "name": "Ruce",
+            "icon": "ph-hand-fist",
+            "description": "Bicepsy a tricepsy. Paže jsou symbolem síly a pomáhají při všech tahových i tlakových cvicích.",
+            "benefits": [
+                "Síla paží",
+                "Estetický vzhled",
+                "Lepší úchop"
+            ],
+            "exercises": [
+                {
+                    "name": "Bicep curl",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Curl.gif",
+                    "guide": "S činkou v ruce a lokty u těla zvedej závaží k ramenům kontrakcí bicepsu."
+                },
+                {
+                    "name": "Tricep extension",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Pushdown.gif",
+                    "guide": "Uchop tyč a tlač tyč dolu dokud se ti lokty nepropnou, lokty měj celou dobu u těla."
+                },
+                {
+                    "name": "Hammer curl",
+                    "image": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Hammer-Curl.gif",
+                    "guide": "S činkou v ruce a lokty u těla zvedej závaží k ramenům kontrakcí bicepsu v neutralní pozici."
+                }
+            ]
+        }
+    ]
+}
